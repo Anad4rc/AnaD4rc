@@ -1,4 +1,4 @@
-## Alons-y Folks 👋
+## Allons-y Folks 👋
 
 ### My name is Ana
 I'm currently studying Data Science ...
