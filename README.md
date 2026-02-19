@@ -1,7 +1,7 @@
 ## Allons-y Folks 👋
 
 ### My name is Ana
-I'm currently studying Data Science ...
+I'm currently studying Full stack tools...
 <!--
 **Anad4rc/AnaD4rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
